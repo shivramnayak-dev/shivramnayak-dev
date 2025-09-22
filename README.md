@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Shivram Nayak (shivramnayak-dev)
+# 👋 Hi, I’m Shivaram Nayak (shivramnayak-dev)
 
 **Frontend Developer | React Enthusiast | AI Explorer**
 
